@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@trendyol-js/react-carousel": "^2.0.1",
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^0.27.2",
+    "carousel-react-rcdev": "0.0.4",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
