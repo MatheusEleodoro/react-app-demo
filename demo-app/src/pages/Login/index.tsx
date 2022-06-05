@@ -15,7 +15,7 @@ const Login = () => {
       .then((e:any)=>{
         if(e.data!=null)
         {
-          navigate('/home')
+          navigate("/home")
         }
       })
  
